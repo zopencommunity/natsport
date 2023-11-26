@@ -1,4 +1,4 @@
-# bump: nats-version /NATS_VERSION="(.*)" https://github.com/nats-io/nats-server.git|semver:*
+# bump: nats-version /NATS_VERSION="(.*)"/ https://github.com/nats-io/nats-server.git|semver:*
 NATS_VERSION="2.10.5"
 
 export ZOPEN_BUILD_LINE="STABLE"
