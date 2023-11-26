@@ -1,0 +1,7 @@
+log/
+log.DEV/
+log.STABLE/
+build/
+install/
+nats-server/
+go/
