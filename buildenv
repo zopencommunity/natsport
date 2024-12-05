@@ -2,7 +2,7 @@
 NATS_VERSION="2.10.11"
 
 export ZOPEN_BUILD_LINE="STABLE"
-export ZOPEN_STABLE_DEPS="comp_go"
+export ZOPEN_STABLE_DEPS="check_go"
 export ZOPEN_STABLE_URL="https://github.com/nats-io/nats-server.git"
 export ZOPEN_STABLE_TAG="v${NATS_VERSION}"
 export ZOPEN_CATEGORIES="networking"
